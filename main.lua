@@ -1,8 +1,8 @@
 {
     "users": {
-        "123456789": "testing blacklist heh"
+        "4982886890": "ez"
     },
     "keys": {
-        "key here": "Key revoked"
+        "KAT4-1786731940-4982886890-2618d02b0547d876": "blacklisted, say sorry on general"
     }
 }
