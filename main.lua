@@ -1,8 +1,8 @@
 {
     "users": {
-        "id": "reason"
+        "10774165276": "trying to leak code dork"
     },
     "keys": {
-        "key": "reason"
+        "key": "trying to leak code"
     }
 }
